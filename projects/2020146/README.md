@@ -33,7 +33,13 @@ Github, στο οποίο είμαι ακόμα αρχάριος. Τέλος, σ
 "κρατάει" τον καθε ένα μας στον αρχικό μας στόχο: την εξέλιξη. 
 
 ## ΠΑΡΑΔΟΤΕΟ 2 | Γραμμη Εντολών (Systemd)
-
+Για το δεύτερο παραδοτεο χρησιμοποιησα τα kali linux. τα kali ειναι ενα distribusion τςν λινθχ ποθ ωασιστηκαν στο debian και εχουν σαν package managare, χρησιμοποιουν το apt-get. ta kali linux χρισημοποιουν το systemd σνα deamon των διεργασιων τους???? το συστεμδ ενιαι ενα Το systemd είναι μια σουίτα λογισμικού που παρέχει μια σειρά από στοιχεία συστήματος για λειτουργικά συστήματα Linux. προτευων στοχος του ειναι να διαχχειριζεται το συστημα και τις υπηρεσιες. εινανι ενα συστημα init Που χρησιμοποιιετεαι για την εκκινηση και την διαχειριση των διαδικασιω χρηστη. Ακόμη, παρεχει αντικαταστασεις για διαφορα deamons και βοηθητικα προγραμματα οπως διαχιρηση συσκευων, συνδεσης δικτυου και καταγραφης συμβαντων
+επειτα για ασηηση γραμμης εντολων δημιουργηθηκε ενα προγραμμα σε bash to οποιο με ενημερωνει οταν για το αν η τιμή του Facebook stock 
+αφου εγκατεστησα τα απραιτητα μεσω του pip, δημιουργησα εν απρογραμμ σε bash to opoio me enhmerwnei automatopoihmena gia to an h timh tou fb stoxk sunexizein a einai katw apo 200usd. 
+Αρχικα, εχουμε μια δομη επαναηψης που ισχυει παντοτε. Εκχωρουμε την τιμη του φβ πριψε στην μεταβλητη φβπριψε mesw tou cURL (client url) einai ena open source command line tool kai clossplatform library(libcurl), xrhsimpopohtai gia thn metafora deodmenwn metaksu server , dianemontas ta se ola ta leitourgika susthmata 
+. xrhshimopoitai to api tou finanace.yahoo gia na paroume thn timh tou fb interval ( to flag -s kanei thn entolh na einai pio ushxh kai apotelesmatikh meiwnontas kathe output pou den eiani aparaithto sthn diadikasia ths metaforas. epeita xrhsimooioiume thn entolh jq pipeline (grmmh6) gi ana kanei extract sugkektimenh plhroforia apo ta jason arxeia kai sthn periptwsh mas na kanei extract thn regular market price kai ustera apothukeuei to apotelesma dhladh thn timh sthn fbprice. sto epomeno stadio exoume ton elegxo ths twrinhs timhs tou stock. kanoume xrhsh tou if kai sthn sugkrish twn arithmwn exoume to bc -l command to opoio -l flag dinei thn dinatothta sto programma na diaxeiristei mathhmatikes prakseis pera apo vasikh arithmitikh. Sto epomeno stadio dunoume entolh sto ntfy na steilei mhnuma sto telegram mesw backend (-b)
+telos perimenei 50 deuterolepta kai ksanaksekinaei. 
+[![asciicast](https://asciinema.org/a/pKJgDTSXV51329gbknWbCd9gh.svg)](https://asciinema.org/a/pKJgDTSXV51329gbknWbCd9gh)Για αυτό το παραδοτέο 
 ## ΠΑΡΑΔΟΤΕΟ 3 | Γραμμή Εντολών (No systemd)
 
 ## ΠΑΡΑΔΟΤΕΟ 4 | Κατασκευή του Βιβλίου Α2 (Συνεργατικά)
