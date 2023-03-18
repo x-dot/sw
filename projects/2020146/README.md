@@ -60,6 +60,17 @@ Github, στο οποίο είμαι ακόμα αρχάριος. Τέλος, σ
 που ονομάζεται HyperTalk για χειρισμό δεδομένων και της διεπαφής χρήστη.
 
 ## ΠΑΡΑΔΟΤΕΟ 5 | Συμμετοχικό Περιεχόμενο A1 + A2
+Για την πέμπτη εβδομάδα προσέθεσα συμμετοχικό περιεχόμενο σχετικά με τις γλώσσες προγραμματισμού __Python__ και __C++__ . 
+- Το κύριο και κοινό τους χαρακτηριστικό τους είναι οτι είναι και οι δύο αντικειμενοστραφείς γλώσσες προγραμματισμού.
+
+
+| gallery | images | timeline | slides | 
+| --- | --- | --- | --- | 
+| [python.md](https://github.com/x-dot/_gallery/blob/master/python.md)| [python.jpg](https://github.com/x-dot/images/blob/master/python.jpg) |  | [objectoriented.md](https://majestic-semolina-a2270f.netlify.app//slides/objectoriented/) |
+| [cpp.md](https://github.com/x-dot/_gallery/blob/master/cpp.md) | [cpp.jpg](https://github.com/x-dot/images/blob/master/cpp.jpg) | [Netlify Χρονολόγιο](https://majestic-semolina-a2270f.netlify.app//timeline/objectoriented/) |  | [objectoriented.md](https://majestic-semolina-a2270f.netlify.app//slides/objectoriented/) ||
+|[Netlify Python](https://majestic-semolina-a2270f.netlify.app/gallery/python/)|  [python-thumb.jpg](https://github.com/x-dot/images/blob/master/python-thumb.jpg)|    |        |
+|[Netlify C++](https://majestic-semolina-a2270f.netlify.app/gallery/cpp/)|  [cpp-thumb.png](https://github.com/x-dot/images/blob/master/cpp-thumb.jpg)      |     |     | 
+
 
 ## ΠΑΡΑΔΟΤΕΟ 6 | Γραμμή Εντολών (No systemd, Custom static blog generator)
 
